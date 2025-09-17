@@ -18,3 +18,9 @@ None
 
 ## Created by
 Nathan Mishler
+
+## Edited by
+Ella Beihold
+
+# GitHub Username
+applelushie
